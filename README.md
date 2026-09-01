@@ -1,66 +1,88 @@
-````html
-<!-- ========================================================= -->
-<!--                  ALI SHAFIEI | README                      -->
-<!-- ========================================================= -->
+````markdown
+<!--
+=========================================================
+                ALI SHAFIEI | CYBERSECURITY
+=========================================================
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:001f1f,100:00ff88&height=220&section=header&text=ALI%20SHAFIEI&fontSize=55&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Network%20Security%20%7C%20Threat%20Hunting&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:041b15,55:003b24,80:00a85a,100:00ff88&height=230&section=header&text=ALI%20SHAFIEI&fontSize=55&fontColor=00FF88&animation=fadeIn&fontAlignY=34&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY%20%7C%20THREAT%20HUNTING&descSize=17&descAlignY=57&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+Initializing+secure+connection...;%3E+Cybersecurity+%26+Network+Security+Engineer;%3E+Threat+Hunter+%7C+Firewall+Enthusiast;%3E+Cloud+%26+DevSecOps+Learner;%3E+Detect.+Defend.+Harden.+Repeat." alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5B%2B%5D+Initializing+secure+environment...;%5B%2B%5D+Cybersecurity+%26+Network+Security;%5B%2B%5D+Threat+Hunting+%7C+Firewall+Security;%5B%2B%5D+Cloud+%7C+DevSecOps+%7C+Automation;%5B%2B%5D+Detect.+Defend.+Harden.+Repeat."
+  alt="Typing SVG"
+/>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=alishafiye&label=PROFILE+VIEWS&color=00c853&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/alishafiye?label=FOLLOWERS&style=for-the-badge&color=00c853&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=alishafiye&label=PROFILE%20VIEWS&color=00c853&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/alishafiye?label=FOLLOWERS&style=for-the-badge&color=00c853&labelColor=0d1117&logo=github&logoColor=00ff88" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/alishafiye?affiliations=OWNER&style=for-the-badge&label=STARS&color=00c853&labelColor=0d1117&logo=github&logoColor=00ff88" alt="Stars"/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://twitter.com/alishafiye">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff88"/>
-</a>
 <a href="https://ir.linkedin.com/in/ali-shafiei-b25a12283">
-<img src="https://img.shields.io/badge/LinkedIn-001f3f?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+<a href="https://twitter.com/alishafiye">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF88"/>
 </a>
 <a href="mailto:Ali.shafiye.a@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
 </a>
 <a href="https://medium.com/@alishafiye">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00FF88"/>
 </a>
+<a href="https://www.hackerrank.com/alishafiye">
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00FF88"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                        TERMINAL                           -->
+<!-- ========================================================= -->
+
+## 🟢 `root@alishafiei:~# whoami`
+
+```text
+┌──(ali㉿cybersec)-[~/profile]
+└─$ whoami
+
+╔══════════════════════════════════════════════════════════════╗
+║                    SECURITY PROFILE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER      : Ali Shafiei                                    ║
+║  ROLE      : Cybersecurity & Network Security Professional  ║
+║  FOCUS     : Threat Hunting | Firewalls | Network Defense   ║
+║  LEARNING  : Programming | Cloud | DevSecOps                ║
+║  MODE      : BLUE TEAM                                      ║
+║  STATUS    : ONLINE                                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1700&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=35&lines=%3E+Monitoring+network+traffic...;%3E+Analyzing+security+events...;%3E+Hunting+for+threats...;%3E+Hardening+infrastructure...;%3E+System+status%3A+SECURED." alt="Security Status"/>
 
 </div>
 
 ---
 
-## 🛡️ `whoami`
-
-```bash
-┌──(ali㉿cybersec)-[~/profile]
-└─$ whoami
-
-Name        : Ali Shafiei
-Role        : Cybersecurity & Network Security Professional
-Focus       : Threat Hunting | Firewalls | Network Security
-Learning    : Programming | Cloud | DevSecOps
-Mission     : Detect threats. Harden systems. Secure infrastructure.
-Status      : Always learning...
-````
-
-> **Cybersecurity is not just about blocking attacks — it's about understanding the adversary before they understand you.**
-
----
-
-## ⚡ About Me
+## 🛡️ About Me
 
 ```yaml
-user: Ali Shafiei
+identity:
+  name: "Ali Shafiei"
+  domain: "Cybersecurity & Network Security"
 
-specialization:
-  - Cybersecurity
-  - Network Security
+core_focus:
   - Threat Hunting
-  - Firewall Administration
+  - Firewall Security
+  - Network Defense
   - Security Operations
 
 currently_learning:
@@ -69,81 +91,108 @@ currently_learning:
   - DevSecOps
   - Security Automation
 
-interests:
-  - Blue Team
-  - Threat Detection
-  - Network Defense
-  - Cloud Security
-  - Infrastructure Security
+mindset:
+  - Detect
+  - Investigate
+  - Defend
+  - Harden
+  - Automate
 ```
 
-* 🛡️ Passionate about **Cybersecurity & Network Security**
-* 🔍 Interested in **Threat Hunting, Detection & Incident Analysis**
-* 🔥 Ask me about **Firewalls, Network Security & Threat Hunting**
-* ☁️ Currently expanding my knowledge in **Cloud & DevSecOps**
-* 🐍 Learning more about **Programming & Security Automation**
-* 🚀 Interested in building secure, resilient and observable infrastructures
-* 📫 Reach me at **[Ali.shafiye.a@gmail.com](mailto:Ali.shafiye.a@gmail.com)**
-* 💼 View my professional experience on [LinkedIn](https://ir.linkedin.com/in/ali-shafiei-b25a12283)
+- 🛡️ Focused on **Cybersecurity & Network Security**
+- 🔍 Interested in **Threat Hunting & Security Operations**
+- 🔥 Ask me about **Firewalls, Network Security and Threat Hunting**
+- ☁️ Expanding my knowledge in **Cloud Security & DevSecOps**
+- 🐍 Learning **Programming & Security Automation**
+- ⚙️ Interested in secure, resilient and observable infrastructures
+- 📫 Contact: **Ali.shafiye.a@gmail.com**
+- 💼 Experience: [LinkedIn Profile](https://ir.linkedin.com/in/ali-shafiei-b25a12283)
 
 ---
 
-# 🔐 Cybersecurity Arsenal
+# ⚔️ Cybersecurity Arsenal
 
 <div align="center">
 
-### 🛡️ Security & Network Defense
+### `// SECURITY OPERATIONS`
 
-<img src="https://img.shields.io/badge/Threat%20Hunting-00ff88?style=for-the-badge&logo=target&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Network%20Security-001f1f?style=for-the-badge&logo=cloudflare&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Firewall%20Security-001f1f?style=for-the-badge&logo=fortinet&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Blue%20Team-001f1f?style=for-the-badge&logo=hackthebox&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Incident%20Analysis-001f1f?style=for-the-badge&logo=securityscorecard&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/THREAT%20HUNTING-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FIREWALL%20SECURITY-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BLUE%20TEAM-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/THREAT%20DETECTION-00FF88?style=for-the-badge&labelColor=0D1117"/>
 
-### ☁️ Cloud & DevSecOps
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,grafana,kafka&theme=dark" />
+### `// CLOUD & DEVSECOPS`
 
-### 💻 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,grafana,kafka&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,js,html&theme=dark" />
+<br><br>
 
-### 🗄️ Databases & Infrastructure
+### `// PROGRAMMING & SCRIPTING`
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,js,html&theme=dark"/>
+
+<br><br>
+
+### `// DATABASES & SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=linux,mysql,mongodb,sqlite&theme=dark"/>
+
+<br>
 
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
 </div>
 
 ---
 
-## 🛰️ Security Operations Mindset
+# 🛰️ Security Operations Workflow
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SECURITY WORKFLOW                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   [ MONITOR ]                                                │
-│       │                                                      │
-│       ▼                                                      │
-│   [ DETECT ] ─────► [ INVESTIGATE ] ─────► [ RESPOND ]      │
-│                                              │               │
-│                                              ▼               │
-│                                         [ HARDEN ]           │
-│                                              │               │
-│                                              ▼               │
-│                                          [ REPEAT ]          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                      ┌─────────────────┐
+                      │    TELEMETRY    │
+                      └────────┬────────┘
+                               │
+                               ▼
+                      ┌─────────────────┐
+                      │     MONITOR     │
+                      └────────┬────────┘
+                               │
+                               ▼
+                    ╔═════════════════════╗
+                    ║       DETECT        ║
+                    ╚══════════╤══════════╝
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     INVESTIGATE     │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┴──────────────┐
+                ▼                             ▼
+       ┌─────────────────┐          ┌─────────────────┐
+       │     RESPOND     │          │  THREAT HUNTING │
+       └────────┬────────┘          └────────┬────────┘
+                │                            │
+                └──────────────┬─────────────┘
+                               ▼
+                      ┌─────────────────┐
+                      │     HARDEN      │
+                      └────────┬────────┘
+                               │
+                               ▼
+                    ╔═════════════════════╗
+                    ║      IMPROVE        ║
+                    ╚═════════════════════╝
 ```
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Mission
 
 ```python
 class CyberSecurityJourney:
@@ -155,115 +204,128 @@ class CyberSecurityJourney:
             "Cybersecurity",
             "Network Security",
             "Threat Hunting",
-            "Firewalls"
+            "Firewall Security"
         ]
 
         self.learning = [
-            "Python",
+            "Programming",
             "Cloud Security",
             "DevSecOps",
             "Security Automation"
         ]
 
-    def mission(self):
-        return "Detect. Defend. Harden. Automate."
+        self.objectives = [
+            "Detect threats",
+            "Investigate anomalies",
+            "Defend infrastructure",
+            "Harden systems",
+            "Automate security"
+        ]
+
+    def status(self):
+        return "SECURITY MODE: ACTIVE"
 
 
 ali = CyberSecurityJourney()
 
-print(ali.mission())
+print(ali.status())
 ```
 
 ```console
-$ python3 mission.py
+$ python3 security_profile.py
 
-Detect. Defend. Harden. Automate.
+[+] Loading cybersecurity profile...
+[+] Initializing threat detection...
+[+] Network monitoring enabled...
+[+] Firewall policy loaded...
+
+SECURITY MODE: ACTIVE
 ```
 
 ---
 
-# 🧰 Technology Stack
+# 💻 Technology Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br/>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
 <b>Linux</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
 <b>Python</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=bash" width="55"/><br/>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=bash" width="48"/><br>
 <b>Bash</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br/>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
 <b>Docker</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br/>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>
 <b>Kubernetes</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>
 <b>AWS</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=azure" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=azure" width="48"/><br>
 <b>Azure</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=grafana" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>
 <b>Grafana</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nginx" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>
 <b>Nginx</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=kafka" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=kafka" width="48"/><br>
 <b>Kafka</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
 <b>MySQL</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
 <b>MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>
 <b>SQLite</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
 <b>C++</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
 <b>JavaScript</b>
 </td>
 </tr>
@@ -277,107 +339,137 @@ Detect. Defend. Harden. Automate.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alishafiye&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=alishafiye&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alishafiye&theme=dark&hide_border=true&background=020617&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+<img height="175" src="https://streak-stats.demolab.com?user=alishafiye&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=8B949E" alt="GitHub Streak"/>
 
-<br/>
+<br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishafiye&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00ff88&text_color=ffffff"/>
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishafiye&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+# 📡 Live Activity Monitor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alishafiye&bg_color=020617&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alishafiye&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=003B24&hide_border=true&custom_title=SECURITY%20ACTIVITY%20LOG" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Matrix
+# 🐍 Contribution Attack Simulation
 
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/alishafiye/alishafiye/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alishafiye/alishafiye/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alishafiye/alishafiye/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/alishafiye/alishafiye/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
 
-> ⚠️ The contribution snake requires a GitHub Action.
-> You can remove this section until the workflow is configured.
+---
+
+# 🔐 Threat Hunter's Mindset
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  [01] ASSUME BREACH                                           │
+│       Never trust blindly. Validate everything.               │
+│                                                               │
+│  [02] KNOW THE NETWORK                                        │
+│       Visibility is the foundation of defense.                │
+│                                                               │
+│  [03] HUNT THE UNKNOWN                                        │
+│       Alerts show what you know. Hunting finds what you don't.│
+│                                                               │
+│  [04] HARDEN CONTINUOUSLY                                     │
+│       Security is a continuous process.                       │
+│                                                               │
+│  [05] AUTOMATE REPETITION                                     │
+│       Humans investigate. Machines handle repetition.         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Establish Secure Connection
 
 <div align="center">
 
 <a href="https://ir.linkedin.com/in/ali-shafiei-b25a12283">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-00ff88?style=for-the-badge&labelColor=020617&logo=linkedin&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00FF88"/>
 </a>
 
 <a href="https://twitter.com/alishafiye">
-<img src="https://img.shields.io/badge/X%20%2F%20TWITTER-Follow-00ff88?style=for-the-badge&labelColor=020617&logo=x&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/X-FOLLOW-00FF88?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=00FF88"/>
 </a>
 
 <a href="https://instagram.com/alishafiye">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-00ff88?style=for-the-badge&labelColor=020617&logo=instagram&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-00FF88?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=00FF88"/>
 </a>
 
 <a href="https://medium.com/@alishafiye">
-<img src="https://img.shields.io/badge/MEDIUM-Articles-00ff88?style=for-the-badge&labelColor=020617&logo=medium&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/MEDIUM-ARTICLES-00FF88?style=for-the-badge&labelColor=0D1117&logo=medium&logoColor=00FF88"/>
 </a>
 
 <a href="https://www.hackerrank.com/alishafiye">
-<img src="https://img.shields.io/badge/HACKERRANK-Profile-00ff88?style=for-the-badge&labelColor=020617&logo=hackerrank&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-00FF88?style=for-the-badge&labelColor=0D1117&logo=hackerrank&logoColor=00FF88"/>
 </a>
 
 <a href="mailto:Ali.shafiye.a@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-00ff88?style=for-the-badge&labelColor=020617&logo=gmail&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/EMAIL-SECURE%20CONTACT-00FF88?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=00FF88"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### 🔒 `ACCESS GRANTED`
+## `// SYSTEM STATUS`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%5BOK%5D+Firewall+online;%5BOK%5D+Threat+monitoring+active;%5BOK%5D+Network+visibility+enabled;%5BOK%5D+Security+mode+active;%5B%2B%5D+Stay+curious.+Stay+secure." alt="System Status"/>
 
 ```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   Security is a process, not a product.          │
-│                                                  │
-│   > Monitor                                      │
-│   > Detect                                       │
-│   > Investigate                                  │
-│   > Defend                                       │
-│   > Improve                                      │
-│                                                  │
-│                     — Ali Shafiei                │
-└──────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║            CONNECTION ESTABLISHED                    ║
+║                                                      ║
+║            ACCESS LEVEL : AUTHORIZED                 ║
+║            SECURITY     : ENABLED                    ║
+║            MONITORING   : ACTIVE                     ║
+║                                                      ║
+║                   — Ali Shafiei                      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-<br/>
+### `> Detect. Defend. Harden. Automate.`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Connection+secured.;%5B%2B%5D+Threat+monitoring+active.;%5B%2B%5D+Stay+curious.+Stay+secure." />
+**Thanks for visiting my profile 🛡️**
 
-<br/>
+<br>
 
-**Thanks for visiting my profile. 🛡️**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:001f1f,100:00ff88&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:041b15,55:003b24,80:00a85a,100:00ff88&height=130&section=footer&animation=fadeIn"/>
 
 </div>
-```
-
-یک نکته: بخش **Contribution Snake 🐍** فوق‌العاده قشنگ می‌شود، ولی برای فعال شدنش باید یک فایل GitHub Actions هم داخل repository پروفایلت بسازی. اگر بخوای، قدم بعدی می‌تونم **نسخه حتی خفن‌تر Hacker Terminal / Matrix** رو هم همراه با فایل آماده‌ی `snake.yml` برات بسازم تا تمام افکت‌ها واقعاً کار کنند.
+````
